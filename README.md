@@ -36,11 +36,16 @@ The goal is to help BoomBikes, a US bike-sharing provider, recover from a revenu
 
 ## 📂 Repository Structure
 Bike-Sharing-Demand-Prediction/
-│── boom_bikes.csv # Dataset (included in repo)
-│── Bike_Sharing_Demand_Prediction.ipynb # Jupyter notebook with full workflow
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
-│── .gitignore # Git ignore file
+
+├── boom_bikes.csv                   # Dataset (included in repo)
+
+├── Bike_Sharing_Demand_Prediction.ipynb   # Jupyter notebook with full workflow
+
+├── requirements.txt                 # Python dependencies
+
+├── README.md                        # Project documentation
+
+└── .gitignore                       # Git ignore file
 
 
 ---
